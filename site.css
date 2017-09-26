@@ -1,0 +1,5 @@
+
+.table-hover tbody tr:hhover td,
+.table-hover tbody tr:hover th {
+	background-color: #700;
+}
